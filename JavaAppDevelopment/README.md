@@ -1,5 +1,6 @@
 Various assignments for my Business App Development class.
 Using Java coding through eclipse IDE, I would fulfill assignments and collaborate with classmates (names mentioned in files) in order to complete projects.
+
 The main project that lasted for the entire semester was to blend financial literacy and show that through coding. We had to properly execute a financial recordbook for expenses that a college student might have.
 
 Another assignment included a UML diagram to understand and illustrate what a body of code looks like in a more understandable way. Breakdown of public classes, constructor classes, and defining objects of the workspace were key to the UML diagram.
